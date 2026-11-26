@@ -2,7 +2,7 @@
 
 [简体中文](README.md) | **English**
 
-A tri-track market ranking scanner and topic-brief generator Agent Skill covering **Short Webnovels (8k–50k words)**, **Serialized Long Webnovels (300k+ words)**, and **AI Short Dramas / Comic Dramas / Comedy Shorts**. Prioritizes real-time manual browser simulation via **Ego Browser (`ego-browser`)** or the built-in **`browser` subagent**, enforces anti-hallucination sample quality gates, and outputs standardized `扫榜报告.md` (Market Scan Report) and `选题简报.md` (Topic Brief) files that hand off directly to downstream writing and scriptwriting skills. Current version: **v1.1.0**.
+A tri-track market ranking scanner and topic-brief generator Agent Skill covering **Short Webnovels (8k–50k words)**, **Serialized Long Webnovels (300k+ words)**, and **AI Short Dramas / Comic Dramas / Comedy Shorts**. Prioritizes real-time manual browser simulation via **Ego Browser (`ego-browser`)** or the built-in **`browser` subagent**, enforces anti-hallucination sample quality gates, and outputs standardized `扫榜报告.md` (Market Scan Report) and `选题简报.md` (Topic Brief) files—decoupling internal one-line pitch summaries from diversified 3-style title options—that hand off directly to downstream writing and scriptwriting skills. Current version: **v1.2.0**.
 
 ## Three Market Tracks
 

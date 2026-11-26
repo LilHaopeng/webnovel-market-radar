@@ -60,21 +60,22 @@
 为了无需二次翻译就能直接喂给写作 Skill，每个推荐选题下方统一附带结构化交接块：
 
 ```markdown
-### 选题 1：{一句话选题方向}
-- 推荐写作管线：`webnovel-short-studio`（5万字以内短篇/微短剧） 或 `story-world-architect → story-outline-architect → story-prose-writer`（厚重长篇）
-- 目标平台：{fanqie / zhihu / qimao / dianzhong / heiyan / qidian / jjwxc / ciweimao}
-- 建议体量模板：{flash（0.8–3万字超短篇） / microdrama（2–5万字微短剧短中篇） / long（30万字+长篇）}
+### 选题 1：{一句话选题梗概（内部说明，非正式书名）}
+- 推荐写作管线：`webnovel-short-studio`（5万字以内短篇/微短剧） 或 `ai-drama-script-studio` 或 `story-world-architect → story-outline-architect → story-prose-writer`（厚重长篇）
+- 目标平台：{fanqie / zhihu / qimao / dianzhong / heiyan / qidian / jjwxc / ciweimao / hongguo}
+- 建议体量模板：{flash（0.8–3万字超短篇） / microdrama（2–5万字微短剧短中篇） / ai-drama / comic-drama / shadiao / long（30万字+长篇）}
 - 建议推进叙事类型：{dialogue / first_person / rules / 传统多维叙事}
 - 建议对话引号：{“” / 「」（知乎盐言）}
 - 题材与情绪组合：{主题材 + 核心情绪拉扯}
 - 核心情绪痛点：{读者最买单的缺口}
 - 能爆假设：{跨样本总结的爆点逻辑}（`待试写/市场验证`）
 - 市场验证：{同类样本 N 本 + 趋势 ↑/→/↓ + 同质化观察}
-- 差异化原创脑洞切口：{强制置换的新规则 / 新身份 / 新反转方向，严禁照抄榜上原书剧情}
-- 标题与导语参考方向：{适配目标平台的标题风格与导语字数建议}
+- 差异化原创脑洞切口：{强制置换的新规则 / 新身份 / 新反转方向，严禁照抄榜上原书剧情；若涉示意人名严禁堆砌沈/顾/陆+墨/砚/清/晚}
+- 正式备选书名方向（跨型谱 3 风格）：{严禁直接拿上面的一句话梗概当书名；按目标赛道给 3 种异构方向——①意象/概念短名 2–8 字；②半句对白/悬念截断 6–12 字；③仅下沉信息流按需附 1 个直述钩子，禁复读单一逗号套路}
+- 标题与导语参考方向：{适配目标平台的标题型谱配比与导语字数建议}
 - 可行性：{高 / 中 / 低} — {依据}
 - 失败风险：{最容易崩的点}
-- 最小验证动作：{如“先用 webnovel-short-studio 跑脑洞4问压测并试写前500字定调”}
+- 最小验证动作：{如“先用 webnovel-short-studio 跑脑洞5问压测并试写前500字定调”}
 ```
 
 ### 下游如何直接消费
